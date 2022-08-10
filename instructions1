@@ -1,0 +1,4 @@
+#Test file to read
+a = 2;
+b = 3;
+read $instructions2
